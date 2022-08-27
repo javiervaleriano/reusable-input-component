@@ -20,5 +20,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # custom
+/build
 package-lock.json
 package.json
