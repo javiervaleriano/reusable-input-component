@@ -1,0 +1,11 @@
+.author-credits {
+  margin: 0;
+  font-family: var(--montserrat);
+  font-weight: var(--medium);
+  color: var(--footer-color);
+}
+
+.author-link {
+  font-weight: var(--bold);
+  color: inherit;
+}
