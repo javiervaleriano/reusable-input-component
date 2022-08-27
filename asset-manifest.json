@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reusable-input-component/static/css/main.d1e6b9b8.css",
+    "main.js": "/reusable-input-component/static/js/main.35a5729d.js",
+    "static/js/787.599d25b3.chunk.js": "/reusable-input-component/static/js/787.599d25b3.chunk.js",
+    "index.html": "/reusable-input-component/index.html",
+    "main.d1e6b9b8.css.map": "/reusable-input-component/static/css/main.d1e6b9b8.css.map",
+    "main.35a5729d.js.map": "/reusable-input-component/static/js/main.35a5729d.js.map",
+    "787.599d25b3.chunk.js.map": "/reusable-input-component/static/js/787.599d25b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1e6b9b8.css",
+    "static/js/main.35a5729d.js"
+  ]
+}
